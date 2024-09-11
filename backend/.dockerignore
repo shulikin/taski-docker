@@ -1,0 +1,10 @@
+# Файл .dockerignore
+venv
+.git
+db.sqlite3
+
+# Environments
+.env
+env/
+ENV/
+env.bak/

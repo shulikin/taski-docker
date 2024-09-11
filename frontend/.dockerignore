@@ -1,0 +1,9 @@
+# frontend/.dockerignore
+node_modules
+build
+
+# Environments
+.env
+env/
+ENV/
+env.bak/
